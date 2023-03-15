@@ -1,7 +1,9 @@
 # Task
 Problem Statement : Create a signup page where a user can register, a login page to  log in with the necessary details needed during registration. Successful login should redirect to a profile page which should  contain additional details such as age, dob, contact, etc. The user  can update, Flow : Register > Login > Profile
 
-![image  4](https://user-images.githubusercontent.com/106916614/225223973-1a8e9428-66ed-454f-b89d-e492daef5cb1.png)
+1) # Sign Up page ::
+
+![image  1](https://user-images.githubusercontent.com/106916614/225224728-e0f9a639-d797-4ee1-afd2-0693b62136ee.png)
 
 #Points to remember :
 
@@ -17,4 +19,10 @@ details of the user profiles
 statements.
 ● The login session should be maintained only using browser localstorage
 (Do not use PHP Session) 
+
+sample image
+# Register page ::
+2)![image  2](https://user-images.githubusercontent.com/106916614/225224840-827c469c-258f-4e0c-ad56-6d4e77601b03.png)
+# Profile page ::
+3)![image  3](https://user-images.githubusercontent.com/106916614/225224868-a327cdc1-084c-4270-9937-c0717b7df20b.png)
 
