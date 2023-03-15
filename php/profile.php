@@ -1,8 +1,4 @@
-<?php 
-    $username = $_REQUEST['username'];
-    $password = $_REQUEST["password"];
-    
-    
+<?php  
     if(file_exists("database/".$username.".txt")){
         
         $file = fopen("database/".$username.".txt","r");
