@@ -1,0 +1,72 @@
+.forms-out {
+    margin: 0 auto;
+    font-family: "Fira Sans", sans-serif;
+    padding: 15px 0;
+    }
+    
+    .forms-in {
+    width: 93%;
+    margin: 0 auto;
+    color: white;
+    padding: 15px 0;
+    }
+    
+    .forms-in div {
+    padding: 60px 20px;
+    max-width: 350px;
+    margin: 0 auto;
+    background: #060606;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    }
+    
+    .forms-in h3 {
+    text-align: center;
+    padding-top: 0%;
+    padding-bottom: 15%;
+    }
+    
+    .forms-in input {
+    border: none;
+    width: 100%;
+    margin-bottom: 30px;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 2px;
+    }
+    
+    a {
+      align-items: center;
+      position: relative;
+      padding-top: 0%;
+      padding-bottom: 25%;
+      padding-left: 240%;
+      padding-right: 15%;
+      border: none;
+      padding: 7px 20px;
+      background: hsl(111, 80%, 33%);
+      color: #ffffff;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: bold;
+      page-break-after: right;
+
+    }
+    .forms-in button:hover {
+    opacity: 0.7;
+    }
+    
+    .hide {
+    display: none;
+    }
+   body {
+
+  background-color:  #660099;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -moz-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+   }
+
+   
